@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="5ded6c56">
+        <description><![CDATA[Created after removal of "<腾讯云.md>" from Second Instance]]></description>
+        <accepts>腾讯云.html</accepts>
+    </rule>
+    <rule id="76760ef3">
+        <description><![CDATA[Created after removal of "<火山云.md>" from Second Instance]]></description>
+        <accepts>火山云.html</accepts>
+    </rule>
+    <rule id="53f16f66">
+        <description><![CDATA[Created after removal of "<Nuget.md>" from Second Instance]]></description>
+        <accepts>Nuget.html</accepts>
+    </rule>
+    <rule id="4838f2a0">
+        <description><![CDATA[Created after removal of "<GitHub.md>" from Second Instance]]></description>
+        <accepts>GitHub.html</accepts>
+    </rule>
+    <rule id="1e2d44ca">
+        <description>Created after removal of "Topic title" from Second Instance</description>
+        <accepts>GitCode.html</accepts>
+    </rule>
+</rules>

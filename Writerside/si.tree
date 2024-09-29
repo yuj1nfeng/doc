@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="si"
+                 name="Second Instance"
+                 start-page="second-instance.md">
+
+    <toc-element topic="second-instance.md"/>
+    <toc-element topic="Reuse-content.md"/>
+    <toc-element topic="Default-topic.md"/>
+    <toc-element toc-title="aigc">
+        <toc-element topic="stable-diffusion-webui.md"/>
+        <toc-element topic="ollama.md"/>
+        <toc-element topic="neuralangelo.md"/>
+        <toc-element topic="comfy-ui.md"/>
+        <toc-element topic="anaconda.md"/>
+    </toc-element>
+    <toc-element toc-title="docker">
+        <toc-element topic="源.md"/>
+        <toc-element topic="srs.md"/>
+        <toc-element topic="redis.md"/>
+        <toc-element topic="oracle.md"/>
+        <toc-element topic="open-webui.md"/>
+        <toc-element topic="mysql.md"/>
+        <toc-element topic="minio.md"/>
+        <toc-element topic="kafka.md"/>
+        <toc-element topic="gitlab.md"/>
+        <toc-element topic="elk.md"/>
+    </toc-element>
+    <toc-element toc-title="macos">
+        <toc-element topic="截屏快捷键.md"/>
+        <toc-element topic="final cat pro 白嫖.md"/>
+    </toc-element>
+    <toc-element toc-title="obs插件">
+        <toc-element topic="remotely save.md"/>
+    </toc-element>
+    <toc-element toc-title="others">
+        <toc-element topic="路由器刷机.md"/>
+        <toc-element topic="录屏.md"/>
+        <toc-element topic="宏.md"/>
+        <toc-element topic="免费证书.md"/>
+        <toc-element topic="umi-路由.md"/>
+        <toc-element topic="powershell.md"/>
+        <toc-element topic="markdown语法.md"/>
+    </toc-element>
+    <toc-element toc-title="ubuntu">
+        <toc-element topic="设置时区.md"/>
+        <toc-element topic="硬盘爆炸脚本.md"/>
+        <toc-element topic="更换源.md"/>
+        <toc-element topic="常用命令.md"/>
+        <toc-element topic="安装中文语言包.md"/>
+        <toc-element topic="安装 docker.md"/>
+        <toc-element topic="samba.md"/>
+        <toc-element topic="ubuntu_redis.md"/>
+        <toc-element topic="postgresql.md"/>
+        <toc-element topic="nginx.md"/>
+        <toc-element topic="ubuntu_mysql.md"/>
+        <toc-element topic="ubuntu_minio.md"/>
+        <toc-element topic="minikube.md"/>
+        <toc-element topic="kibana.md"/>
+        <toc-element topic="ubuntu_kafka.md"/>
+        <toc-element topic="gitlab-ce.md"/>
+        <toc-element topic="elasticsearch.md"/>
+    </toc-element>
+    <toc-element toc-title="vr">
+        <toc-element topic="web 框架.md"/>
+    </toc-element>
+    <toc-element toc-title="vscode">
+        <toc-element topic="插件.md"/>
+        <toc-element topic="微信小程序vscode.settings.md"/>
+        <toc-element topic="开发前端项目IntelliSense不能正常工作.md"/>
+        <toc-element topic="settings.md"/>
+        <toc-element topic="plugins.md"/>
+        <toc-element topic="nodejs项目开发注意事项.md"/>
+        <toc-element topic="nodejs.md"/>
+    </toc-element>
+    <toc-element toc-title="wsl">
+        <toc-element topic="从局域网 (LAN) 访问 WSL 2 分发版.md"/>
+    </toc-element>
+    <toc-element toc-title="常用工具">
+        <toc-element topic="软件推荐.md"/>
+        <toc-element topic="wget.md"/>
+        <toc-element topic="unuty.md"/>
+        <toc-element topic="ssh.md"/>
+        <toc-element topic="常用工具_nginx.md"/>
+        <toc-element topic="docker.md"/>
+        <toc-element topic="curl.md"/>
+    </toc-element>
+    <toc-element toc-title="开发环境搭建">
+        <toc-element topic="dockerfile模板.md"/>
+    </toc-element>
+    <toc-element toc-title="挖呀挖">
+        <toc-element topic="钱包.md"/>
+    </toc-element>
+    <toc-element toc-title="百进">
+        <toc-element topic="考试平台.md"/>
+        <toc-element topic="数据库设计.md"/>
+    </toc-element>
+    <toc-element toc-title="福禄官网">
+        <toc-element topic="项目文件.md"/>
+    </toc-element>
+</instance-profile>
